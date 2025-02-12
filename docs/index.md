@@ -1,30 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
+# Welcome to MkDocs
 
-<head>
-    <meta charet="utf-8">
-    <meta name="viewport" content="width=device_width, initial-scale=1">
-    <title>Fonts practice</title>
-    <link rel="stylesheet" href="css/font.css">
-</head>
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-<body>
-    <header>
-        <h1>Fonts in CSS</h1>
-        <section>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias corrupti eius eligendi eum unde
-                architecto excepturi nam, amet rerum sed odio ad maiores delectus error iste nesciunt suscipit illo
-                exercitationem?
-            </p>
-            <h1>Barmaja Online</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nulla placeat ab atque. Vitae eligendi
-                rerum rem laboriosam corporis, delectus quae aliquid numquam possimus maxime tempora quo veritatis
-                laborum laudantium.
-            </p>
-        </section>
-    </header>
-</body>
+## this is a test
 
-</html>
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
