@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## this is my site
+## this is a test
 
 ## Commands
 
